@@ -5,7 +5,7 @@
   ## Website Link
   Check out the deployed app here: [Note Taker](https://mysterious-wave-94060.herokuapp.com/)
   
-  ![image](https://user-images.githubusercontent.com/85760640/145455704-42ffb604-a89c-4f2f-bb33-87fb1773c9a6.png)
+  ![image](https://user-images.githubusercontent.com/20363030/155231509-badde65a-01ba-4cbf-a3e5-4405da55a24d.png)
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -28,4 +28,4 @@ node server.js
   MIT-License
 
   ## Questions
-  If you have any questions about this projects, please contact me directly at cwpardue@gmail.com. You can view more of my projects atwarrenrobert127@gmail.com.
+  If you have any questions about this projects, please contact me directly at warrenrobert127@gmail.com. You can view more of my projects at https://github.com/warrenrobert127/note-taker.
