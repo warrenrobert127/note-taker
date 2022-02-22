@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/warrenrobert127/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "uuidv4": "^6.2.12"
   }
 }
